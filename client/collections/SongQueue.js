@@ -5,9 +5,5 @@ var SongQueue = Songs.extend({
   	
   },
 
-  enqueue: function(song) {
-  	 this.set(song);  
-  }
-
 
  });
